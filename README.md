@@ -65,6 +65,14 @@ O código-fonte do **SPASE Connect** é privado e protegido, pois trata-se de um
 
 ---
 
+<div align="center">
+  Desenvolvido por <strong>Aksurim Software</strong>
+</div>
+
+---
+
+<div align="center">Copyright © 2024 Aksurim Software. Todos os direitos reservados.</div>
+
 ### 📫 Contato
 
 **Joannderson Lucena**
